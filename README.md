@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<div id="container" style="width: 100%; display: flex; flex-direction: row; justify-content: space-between;">
+  <div id="title" style="display: block; float: left; width:100%;">##Hi, welcome to my Git!</div>
+  <div id="photo" style="display:block; float:right;"><img src="https://github.com/enobrega/enobrega/blob/main/rosto.png" alt="profile-photo" width="200"/></div>
+</div>
 <!--
 **enobrega/enobrega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
