@@ -1,5 +1,6 @@
-<h2>< Eduardo Nóbrega /></h2>
+<h1>Eduardo Nóbrega</h1>
 <img align="right" valign="bottom" height="40" src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/source.gif">
+<img align="right" valign="bottom" height="50" src="https://media.giphy.com/media/gIwXMRnMcjNz0LeDEI/source.gif">
 
 # Hi there! :wave: #
 
