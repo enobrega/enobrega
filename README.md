@@ -41,7 +41,7 @@ I live in Recife - Pernambuco - Brazil &nbsp;&nbsp; <img src="https://emojipedia
 <img align="left" border=5 alt="Bootstrap" width="auto" height="30" src="https://img.shields.io/badge/-Bootstrap-282A36.svg?logo=bootstrap&logoColor=563D7C&style=flat" />
 <img align="left" border=5 alt="Javascript" width="auto" height="30" src="https://img.shields.io/badge/-Javascript-282A36.svg?logo=javascript&logoColor=F7DF1E&style=flat" />
 <img align="left" border=5 alt="Node JS" width="auto" height="30" src="https://img.shields.io/badge/-Node Js-282A36.svg?logo=node.js&logoColor=43853D&style=flat" />
-<img align="left" border=5 alt="NPM" width="auto" height="30" src="https://img.shields.io/badge/-NPM-282A36.svg?logo=npm&logoColor=CB3837&style=flat" />
+<img align="left" border=5 alt="NPM" width="auto" height="30" src="https://img.shields.io/badge/-NPM-282A36.svg?logo=npm&logoColor=CB3837&style=flat" /><br><br>
 <img align="left" border=5 alt="Yarn" width="auto" height="30" src="https://img.shields.io/badge/-Yarn-282A36.svg?logo=yarn&logoColor=2C8EBB&style=flat" />
 <img align="left" border=5 alt="Express" width="auto" height="30" src="https://img.shields.io/badge/-Express-282A36.svg?logo=express&logoColor=404D59&style=flat" />
 <img align="left" border=5 alt="JWT" width="auto" height="30" src="https://img.shields.io/badge/-JWT-282A36.svg?logo=json-web-tokens&logoColor=D63AFF&style=flat" />
@@ -49,7 +49,7 @@ I live in Recife - Pernambuco - Brazil &nbsp;&nbsp; <img src="https://emojipedia
 <img align="left" border=5 alt="Babel" width="auto" height="30" src="https://img.shields.io/badge/-Babel-282A36.svg?logo=babel&logoColor=F5DA55&style=flat" />
 <img align="left" border=5 alt="ES Lint" width="auto" height="30" src="https://img.shields.io/badge/-ES Lint-282A36.svg?logo=eslint&logoColor=4B32C3&style=flat" />
 <img align="left" border=5 alt="Prettier" width="auto" height="30" src="https://img.shields.io/badge/-Prettier-282A36.svg?logo=prettier&logoColor=F8BC45&style=flat" />
-<img align="left" border=5 alt="Graph QL" width="auto" height="30" src="https://img.shields.io/badge/-Graph QL-282A36.svg?logo=graphql&logoColor=E10098&style=flat" />
+<img align="left" border=5 alt="Graph QL" width="auto" height="30" src="https://img.shields.io/badge/-Graph QL-282A36.svg?logo=graphql&logoColor=E10098&style=flat" /><br><br>
 <img align="left" border=5 alt="React" width="auto" height="30" src="https://img.shields.io/badge/-React-282A36.svg?logo=react&logoColor=20232A&style=flat" />
 <img align="left" border=5 alt="Redux" width="auto" height="30" src="https://img.shields.io/badge/-Redux-282A36.svg?logo=redux&logoColor=593D88&style=flat" />
 <img align="left" border=5 alt="Styled Components" width="auto" height="30" src="https://img.shields.io/badge/-Styled Components-282A36.svg?logo=styled-components&logoColor=white&style=flat" />
@@ -98,7 +98,7 @@ I live in Recife - Pernambuco - Brazil &nbsp;&nbsp; <img src="https://emojipedia
 <img align="left" border=5 alt="Windows" width="auto" height="30" src="https://img.shields.io/badge/-Windows-282A36.svg?logo=windows&logoColor=0078D6&style=flat" />
 <img align="left" border=5 alt="Powershell" width="auto" height="30" src="https://img.shields.io/badge/-Powershell-282A36.svg?logo=powershell&logoColor=5391FE&style=flat" />
 <img align="left" border=5 alt="NGINX" width="auto" height="30" src="https://img.shields.io/badge/-NGINX-282A36.svg?logo=nginx&logoColor=009639&style=flat" />
-<img align="left" border=5 alt="Docker" width="auto" height="30" src="https://img.shields.io/badge/-Docker-282A36.svg?logo=docker&logoColor=2CA5E0&style=flat"/>
+<img align="left" border=5 alt="Docker" width="auto" height="30" src="https://img.shields.io/badge/-Docker-282A36.svg?logo=docker&logoColor=2CA5E0&style=flat"/><br><br>
 <img align="left" border=5 alt="Kubernetes" width="auto" height="30" src="https://img.shields.io/badge/-Kubernetes-282A36.svg?logo=kubernetes&logoColor=2E73DA&style=flat" />
 <img align="left" border=5 alt="Jenkins" width="auto" height="30" src="https://img.shields.io/badge/-Jenkins-282A36.svg?logo=jenkins&logoColor=D24939&style=flat" />
 <img align="left" border=5 alt="AWS" width="auto" height="30" src="https://img.shields.io/badge/-AWS-282A36.svg?logo=amazon-aws&logoColor=ff9900&style=flat" />
