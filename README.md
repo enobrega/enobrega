@@ -1,3 +1,4 @@
+<a id="top"></a>
 <h1>Eduardo Nóbrega</h1>
 <!--<img align="right" valign="bottom" height="40" src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/source.gif">-->
 <img align="right" valign="bottom" height="50" src="https://media.giphy.com/media/QB4NIBn51SCTD2FHpJ/source.gif">
@@ -143,3 +144,7 @@ Welcome to my github profile!
 
 <table align="center"><tr><td>:pray:</td><td>:heart:</td><td>:pray:</td></tr></table>
 <table align="center"><tr><td>:v:</td></tr></table>
+
+<table align="center"><tr><td><a href="#top">:top:</a></td></tr></table>
+
+
