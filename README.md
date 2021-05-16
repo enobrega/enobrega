@@ -1,19 +1,20 @@
-## Hi there! :wave:
+# Hi there! :wave:
 
-<img align="right" src="https://komarev.com/ghpvc/?username=ereshzealous&color=blueviolet" alt="visits">
+<img align="right" src="https://komarev.com/ghpvc/?username=ereshzealous&color=blueviolet&style=plastic)" alt="visits">
 
 Welcome to my github profile!
-<br/>I'm __Eduardo Nóbrega__ a full stack developer and technology entusiast.
+<br/><br/>I'm __Eduardo Nóbrega__ a full stack developer and technology entusiast.
 
-I live in Recife - Pernambuco - Brazil &nbsp;&nbsp; <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/274/flag-brazil_1f1e7-1f1f7.png" width="25" alt="Brazil" valign="bottom"/>
+I live in Recife - Pernambuco - Brazil &nbsp;&nbsp; <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/274/flag-brazil_1f1e7-1f1f7.png" width="25" alt="Brazil" valign="bottom"/><br/><br/>
 
 ## Connect with me
 
 <div align="center">
-<a href="http://linkedin.com/enobrega" target="_blank"><img align="left" border="10" alt="Linkedin" height="30" src="https://img.shields.io/badge/-Linkedin-282A36.svg?logo=linkedin&logoColor=0077B5&style=flat" /></a>
-<a href="twitter.com/efnobrega" target="_blank"><img align="left" border="10" alt="Twitter" height="30" src="https://img.shields.io/badge/-Twitter-282A36.svg?logo=twitter&logoColor=1DA1F2&style=flat" /></a>
-<a href="facebook.com/enobrega" target="_blank"><img align="left" border="10" alt="Facebook" height="30" src="https://img.shields.io/badge/-Facebook-282A36.svg?logo=facebook&logoColor=1877F2&style=flat" /></a>
-<a href="instagran.com/enobrega" target="_blank"><img align="left" border="10" alt="Instagram" height="30" src="https://img.shields.io/badge/-Instagram-282A36.svg?logo=instagram&logoColor=E4405F&style=flat" /></a>
+<a href="https://www.linkedin.com/in/efnobrega/" target="_blank"><img align="left" border="10" alt="Linkedin" height="30" src="https://img.shields.io/badge/-Linkedin-282A36.svg?logo=linkedin&logoColor=0077B5&style=flat" /></a>
+<a href="https://twitter.com/efnobrega" target="_blank"><img align="left" border="10" alt="Twitter" height="30" src="https://img.shields.io/badge/-Twitter-282A36.svg?logo=twitter&logoColor=1DA1F2&style=flat" /></a>
+<a href="https://www.facebook.com/efnobrega" target="_blank"><img align="left" border="10" alt="Facebook" height="30" src="https://img.shields.io/badge/-Facebook-282A36.svg?logo=facebook&logoColor=1877F2&style=flat" /></a>
+<a href="https://www.instagram.com/efnobrega/?hl=pt" target="_blank"><img align="left" border="10" alt="Instagram" height="30" src="https://img.shields.io/badge/-Instagram-282A36.svg?logo=instagram&logoColor=E4405F&style=flat" /></a>
+<a href="https://pt.stackoverflow.com/users/237135/eduardo-nóbrega" target="_blank"><img align="left" border="10" alt="Instagram" height="30" src="https://img.shields.io/badge/-Stack Overflow-282A36.svg?logo=stackoverflow&logoColor=FE7A16&style=flat" /></a>
 </div>
 
 <br/><br/>
@@ -125,8 +126,12 @@ I live in Recife - Pernambuco - Brazil &nbsp;&nbsp; <img src="https://emojipedia
   <img align="left" border="10" alt="Medium" height="30" src="https://img.shields.io/badge/-Medium-282A36.svg?logo=medium&logoColor=000000&style=flat" width="auto" />
 </div>
 
-<br/><br/><br>
+<br/><br/>
 
+## My stats ##
+
+<br>
 <p align="center"><img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=enobrega&show_icons=true&theme=dracula"></p>
 
-<!--[![My stats](https://github-readme-stats.vercel.app/api?username=enobrega&show_icons=true&theme=radical)](https://github.com/enobrega/github-readme-stats)-->
+<table align="center"><tr><td>:pray:</td><td>:heart:</td><td>:pray:</td></tr></table>
+<table align="center"><tr><td>:v:</td></tr></table>
