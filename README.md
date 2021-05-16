@@ -5,7 +5,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=ereshzealous&color=blueviolet&style=plastic)" alt="visits">
 
 Welcome to my github profile!
-<br/>I'm __Eduardo Nóbrega__ a full stack developer and technology entusiast.
+<br/>I'm __Eduardo Nóbrega__ a full stack developer and technology entusiast. 
 <br>I live in Recife - Pernambuco - Brazil &nbsp;&nbsp; <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/274/flag-brazil_1f1e7-1f1f7.png" width="25" alt="Brazil" valign="bottom"/><br/><br/>
 
 ## Connect with me ##
@@ -18,7 +18,7 @@ Welcome to my github profile!
 
 <br/><br/>
 
-## My Interests ##
+## My Interests 👨‍💻 ##
 ### Software Development Lifecycle and Process ###
 
 <img align="left" border=5 alt="Scrum" width="auto" height="25" src="https://img.shields.io/badge/-Scrum-282A36.svg?logo=scrumalliance&logoColor=white&style=flat" />
