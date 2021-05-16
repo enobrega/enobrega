@@ -1,4 +1,4 @@
-<img align="right" height="80" src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/source.gif">
+<img align="right" valign="bottom" height="60" src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/source.gif">
 
 # Hi there! :wave: #
 
