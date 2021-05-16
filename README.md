@@ -1,4 +1,5 @@
-<img align="right" valign="bottom" height="60" src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/source.gif">
+<h2>< Eduardo Nóbrega /></h2>
+<img align="right" valign="bottom" height="40" src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/source.gif">
 
 # Hi there! :wave: #
 
@@ -15,8 +16,11 @@ Welcome to my github profile!
 <a href="https://www.facebook.com/efnobrega" target="_blank"><img align="left" border=5 alt="Facebook" width="auto" height="25" src="https://img.shields.io/badge/-Facebook-282A36.svg?logo=facebook&logoColor=1877F2&style=flat" /></a>
 <a href="https://www.instagram.com/efnobrega/?hl=pt" target="_blank"><img align="left" border=5 alt="Instagram" width="auto" height="25" src="https://img.shields.io/badge/-Instagram-282A36.svg?logo=instagram&logoColor=E4405F&style=flat" /></a>
 <a href="https://pt.stackoverflow.com/users/237135/eduardo-nóbrega" target="_blank"><img align="left" border=5 alt="Instagram" width="auto" height="25" src="https://img.shields.io/badge/-Stack Overflow-282A36.svg?logo=stackoverflow&logoColor=FE7A16&style=flat" /></a>
+<a href="mailto:enobrega@gmail.com" target="_blank"><img align="left" border=5 alt="Gmail" width="auto" height="25" src="https://img.shields.io/badge/-Gmail-282A36.svg?logo=Gmail&logoColor=EA4335&style=flat" /></a>
 
-<br/><br/>
+<br>
+<h5>:link: How about we follow each other and share some knowledge?</h5>
+<br>
 
 ## My Interests 👨‍💻 ##
 ### Software Development Lifecycle and Process ###
@@ -125,8 +129,14 @@ Welcome to my github profile!
 
 ## My stats ##
 
-<br>
-<p align="center"><img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=enobrega&show_icons=true&theme=dracula"></p>
+<center>
+<table align="center">
+  <tr>
+    <td width="500" align="center"><img src="https://github-readme-stats.vercel.app/api?username=enobrega&show_icons=true&theme=dracula" alt="My stats"></td>
+    <td width="500" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enobrega&theme=dracula" alt="Languages"/></td>
+  </tr>
+</table>
+<center>
 
 <table align="center"><tr><td>:pray:</td><td>:heart:</td><td>:pray:</td></tr></table>
 <table align="center"><tr><td>:v:</td></tr></table>
