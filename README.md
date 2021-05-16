@@ -1,5 +1,5 @@
 <a id="top"></a>
-<h1>Eduardo Nóbrega</h1>
+<h1>👨‍💻 Eduardo Nóbrega</h1>
 <!--<img align="right" valign="bottom" height="40" src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/source.gif">-->
 <img align="right" valign="bottom" height="50" src="https://media.giphy.com/media/QB4NIBn51SCTD2FHpJ/source.gif">
 <img align="right" valign="bottom" height="45" src="https://media.giphy.com/media/gIwXMRnMcjNz0LeDEI/source.gif">
@@ -26,7 +26,7 @@ Welcome to my github profile!
 <h5>:link: How about we follow each other and share some knowledge?</h5>
 <br>
 
-## My Interests 👨‍💻 ##
+## My Interests ##
 ### Software Development Lifecycle and Process ###
 
 <img align="left" border=5 alt="Scrum" width="auto" height="25" src="https://img.shields.io/badge/-Scrum-282A36.svg?logo=scrumalliance&logoColor=white&style=flat" />
