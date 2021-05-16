@@ -1,6 +1,6 @@
 <h1>Eduardo Nóbrega</h1>
 <!--<img align="right" valign="bottom" height="40" src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/source.gif">-->
-<img align="right" valign="bottom" height="56" src="https://media.giphy.com/media/QB4NIBn51SCTD2FHpJ/source.gif">
+<img align="right" valign="bottom" height="50" src="https://media.giphy.com/media/QB4NIBn51SCTD2FHpJ/source.gif">
 <img align="right" valign="bottom" height="45" src="https://media.giphy.com/media/gIwXMRnMcjNz0LeDEI/source.gif">
 
 
