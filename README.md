@@ -40,7 +40,7 @@ I live in Recife - Pernambuco - Brazil &nbsp;&nbsp; <img src="https://emojipedia
 <img align="left" border="10" alt="SASS" height="30" src="https://img.shields.io/badge/-SASS-282A36.svg?logo=sass&logoColor=CC6699&style=flat" width="auto" />
 <img align="left" border="10" alt="Bootstrap" height="30" src="https://img.shields.io/badge/-Bootstrap-282A36.svg?logo=bootstrap&logoColor=563D7C&style=flat" width="auto" />
 <img align="left" border="10" alt="Javascript" height="30" src="https://img.shields.io/badge/-Javascript-282A36.svg?logo=javascript&logoColor=F7DF1E&style=flat" width="auto" />
-<img align="left" border="10" alt="Typescript" height="30" src="https://img.shields.io/badge/-Typescript-282A36.svg?logo=typescript&logoColor=007ACC&style=flat" width="auto" />
+<img align="left" border="10" alt="Typescript" height="30" src="https://img.shields.io/badge/-Typescript-282A36.svg?logo=typescript&logoColor=007ACC&style=flat" width="auto" /><br/><br/>
 <img align="left" border="10" alt="Node JS" height="30" src="https://img.shields.io/badge/-Node Js-282A36.svg?logo=node.js&logoColor=43853D&style=flat" width="auto" />
 <img align="left" border="10" alt="NPM" height="30" src="https://img.shields.io/badge/-NPM-282A36.svg?logo=npm&logoColor=CB3837&style=flat" width="auto" />
 <img align="left" border="10" alt="Yarn" height="30" src="https://img.shields.io/badge/-Yarn-282A36.svg?logo=yarn&logoColor=2C8EBB&style=flat" width="auto" />
