@@ -1,11 +1,6 @@
-<div align="center">
-<img src="https://github.com/enobrega/enobrega/blob/main/profile-photo.png?raw=true" width="120"/><br/><br/>
-<img src="https://komarev.com/ghpvc/?username=ereshzealous&color=blueviolet" alt="visits">
-</div>
-
 ## Hi there! :wave:
 
-<!--<img align="right" src="https://komarev.com/ghpvc/?username=ereshzealous&color=blueviolet" alt="visits">-->
+<img align="right" src="https://komarev.com/ghpvc/?username=ereshzealous&color=blueviolet" alt="visits">
 
 Welcome to my github profile!
 <br/>I'm __Eduardo Nóbrega__ a full stack developer and technology entusiast.
